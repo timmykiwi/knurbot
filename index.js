@@ -42,4 +42,4 @@ client.on("message", async message => {
         command.run(client, message, args);
 });
 
-client.login(763a11d0e1e9f31082e94b8bab400007344a635ab08656cc1ff3c0de492f14ed);
+client.login('763a11d0e1e9f31082e94b8bab400007344a635ab08656cc1ff3c0de492f14ed');
